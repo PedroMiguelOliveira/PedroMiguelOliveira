@@ -1,15 +1,10 @@
-<h2 align="left">Olá 👋! Meu nome é Pedro Miguel e eu sou desenvolvedor back-end.</h2>
+<br clear="both">
+
+<h2 align="left">Olá 👋! Meu nome é Pedro Miguel e eu sou Desenvolvedor back-end</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroMiguelOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroMiguelOliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4dmJoZjdpMXdyenFmbDN2dGF5MG1jajBta3g2MG01cmpsbTJ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLlK1rduwlTPA1Fh2W/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJlM3E1d2psajV5dnN0a3RibW90MXNmMWVnNDV3aWc0N3hyam5qNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLlK1rduwlTPA1Fh2W/giphy.gif"  />
 
 ###
 
